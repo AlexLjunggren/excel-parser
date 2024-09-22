@@ -1,4 +1,4 @@
-package ljunggren.io.excel.parser;
+package io.ljunggren.excel.parser;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -11,10 +11,10 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import ljunggren.io.excel.parser.model.SimpleCell;
-import ljunggren.io.excel.parser.model.SimpleRow;
-import ljunggren.io.excel.parser.model.SimpleSheet;
-import ljunggren.io.excel.parser.model.SimpleWorkbook;
+import io.ljunggren.excel.parser.model.SimpleCell;
+import io.ljunggren.excel.parser.model.SimpleRow;
+import io.ljunggren.excel.parser.model.SimpleSheet;
+import io.ljunggren.excel.parser.model.SimpleWorkbook;
 import lombok.Getter;
 
 @Getter

@@ -1,4 +1,4 @@
-package ljunggren.io.excel.parser.model;
+package io.ljunggren.excel.parser.model;
 
 import java.util.ArrayList;
 import java.util.List;

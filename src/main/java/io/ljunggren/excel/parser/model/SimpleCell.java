@@ -1,4 +1,4 @@
-package ljunggren.io.excel.parser.model;
+package io.ljunggren.excel.parser.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
